@@ -1,0 +1,10 @@
+{
+  "enablePullDownRefresh": true,
+  "navigationBarBackgroundColor": "#368cd2",
+  "backgroundColorTop": "#368cd2",
+  "backgroundColorBottom": "#f5f5f5",
+  "backgroundTextStyle": "light",
+  "usingComponents": {
+    "component-badge": "/components/badge/badge"
+  }
+}
